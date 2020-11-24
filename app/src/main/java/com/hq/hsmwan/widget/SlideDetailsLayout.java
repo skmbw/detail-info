@@ -21,7 +21,6 @@ import android.widget.RelativeLayout;
 
 import com.hq.hsmwan.R;
 
-@SuppressWarnings("unused")
 public class SlideDetailsLayout extends ViewGroup {
 
     /**
