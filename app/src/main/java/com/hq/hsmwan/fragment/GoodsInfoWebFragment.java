@@ -13,7 +13,7 @@ import android.webkit.WebViewClient;
 import com.hq.hsmwan.R;
 
 /**
- * 图文详情webview的Fragment
+ * 图文详情webview的，商品详情Fragment
  */
 public class GoodsInfoWebFragment extends Fragment {
     public WebView wv_detail;
